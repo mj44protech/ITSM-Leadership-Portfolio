@@ -1,24 +1,32 @@
-# ITSM Leadership Portfolio
+# Service Desk SOP Toolkit
 
-This repository showcases practical, manager-level work products for IT Service Management and IT Asset Management roles.
+This folder contains a set of foundational Standard Operating Procedures designed to support consistent, structured Service Desk operations. The toolkit provides clear workflows, expectations, and routines for daily support activities.
 
-It includes three core projects:
+---
 
-1. **KPI Dashboard (IT Service Desk Performance)**
-   - 30-day service desk KPI dataset
-   - Branded Excel dashboard with conditional formatting, scoring, and action plan
-   - Executive 1-page PDF summary
-   - Presentation deck with 90-day plan and KPI visuals
+## Files in This Folder
 
-2. **IT Asset Lifecycle Case Study**
-   - One-page case study covering the full hardware lifecycle
-   - Before/after KPIs and ROI narrative
+- **Service_Desk_SOP_Toolkit.docx**  
+  Fully documented SOP framework including ticket handling standards, escalation paths, onboarding/offboarding checklists, and operational cadence.
 
-3. **Service Desk SOP Toolkit**
-   - Ticket handling SOP
-   - Escalation matrix
-   - Onboarding/offboarding checklist
-   - Operational cadence framework
+---
 
-Use this portfolio to demonstrate IT leadership, process maturity, and your ability to turn data into decisions.
-# ITSM-Leadership-Portfolio
+## Components Included
+
+**Ticket Handling SOP**  
+Defines intake, triage, categorization, prioritization, resolution, and closure expectations.
+
+**Escalation Matrix**  
+Outlines criteria and flow from L1 to L2, L3, or vendor support.
+
+**Onboarding/Offboarding Checklist**  
+Ensures consistent handling of accounts, hardware, software, and security procedures.
+
+**Operational Cadence**  
+Daily, weekly, monthly, and quarterly routines for maintaining stable Service Desk performance.
+
+---
+
+## Purpose of This Toolkit
+
+These SOPs provide a structured reference for aligning team behaviors, reducing variability in service delivery, and supporting predictable operational outcomes. They can be used as a base framework or adapted to suit specific organizational environments.
