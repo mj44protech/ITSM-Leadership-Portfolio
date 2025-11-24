@@ -1,29 +1,68 @@
 # KPI Dashboard – IT Service Desk
 
-This folder contains a monthly KPI dashboard that demonstrates how I manage, monitor, and communicate IT Service Desk performance.
+This folder contains a monthly KPI dashboard built to evaluate and monitor IT Service Desk performance. It provides a structured view of daily metrics, trend analysis, scoring, summaries, and actionable insights. The goal is to offer a clear, repeatable way to assess operational health and guide improvements.
 
-## Included Artifacts
+---
 
-- `KPI_Dashboard_Monthly_Enhanced.xlsx`  
-  - 30 days of realistic sample data  
-  - MJ44-branded header styling  
-  - Conditional formatting for ASA, FCR, ABR, CSAT, SLA  
-  - Monthly Summary tab  
-  - KPI Scoring tab (targets vs actuals)  
-  - Manager Action Plan tab  
+## Files in This Folder
 
-- `KPI_Monthly_1Page_Branded.pdf`  
-  - One-page executive summary of KPI trends and recommendations.
+- **KPI_Dashboard_Monthly_Enhanced.xlsx**  
+  Full 30-day dataset with daily metrics, conditional formatting, KPI scoring, monthly summary, and a manager action plan.
 
-- `KPI_Dashboard_Monthly_Slides_Updated.pptx`  
-  - Slide deck with:
-    - Title/overview
-    - 90-day plan (30/60/90)
-    - Ticket Volume trend chart
-    - SLA trend chart
+- **KPI_Monthly_1Page_Branded.pdf**  
+  A one-page executive summary showing key trends and recommendations.
 
-## How to Talk About This in an Interview
+- **KPI_Dashboard_Monthly_Slides_Updated.pptx**  
+  Slide deck including a title page, 90-day plan, and visual KPI charts.
 
-- Explain how volume, ASA, ABR, SLA, and CSAT interact.
-- Show how you would use this dashboard in weekly reviews.
-- Walk through the 90-day plan as if you were stepping into a new IT Service Desk Manager role.
+---
+
+## Key Metrics Explained
+
+**Ticket Volume**  
+Daily count of requests handled by the Service Desk.
+
+**ASA (Average Speed to Answer)**  
+Time in minutes to respond to incoming tickets or calls.
+
+**FCR (First Contact Resolution)**  
+Percentage of issues resolved without escalation.
+
+**ABR (Abandon Rate)**  
+Percentage of users who disconnect before receiving support.
+
+**CSAT (Customer Satisfaction)**  
+User-reported satisfaction rating.
+
+**SLA Compliance**  
+Percentage of tickets resolved within defined SLA thresholds.
+
+---
+
+## How to Use This
+
+This dashboard provides a month-long view of Service Desk performance and highlights where operational strengths and weaknesses appear. Daily metrics, scoring logic, summaries, and action plans support:
+
+- Identifying volume patterns  
+- Tracking responsiveness  
+- Monitoring quality and user satisfaction  
+- Spotting SLA risk areas  
+- Guiding staffing or process adjustments  
+
+The structure can be reused for ongoing reporting or adapted for weekly, monthly, or quarterly operational reviews.
+
+---
+
+## Structure of the Dashboard
+
+**Daily Metrics** – Full 30-day KPI set with conditional formatting.  
+**KPI Scoring** – Targets vs. averages to indicate overall performance.  
+**Monthly Summary** – High-level totals and averages.  
+**Action Plan** – Steps for improving stability and performance.  
+**Trend Charts** – Visuals for Ticket Volume and SLA patterns.
+
+---
+
+## Notes
+
+All values use sample data that simulates typical Service Desk behavior.
