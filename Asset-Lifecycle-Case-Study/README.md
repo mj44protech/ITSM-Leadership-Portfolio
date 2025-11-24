@@ -14,4 +14,4 @@ This folder contains a concise case study that illustrates how I would manage th
 
 ## How to Use This
 
-In conversations, position this as proof that you understand ITAM + ITSM integration, governance, and the impact of process on cost and risk.
+This case study provides a clear overview of a standardized hardware lifecycle process and the measurable impact of improving each stage.  It can be used as a reference model for defining and refining assest management workflows, setting expectations for lifecycle governance, and illustrating how structed processes improve accuracy, returns, and operational efficiency.
